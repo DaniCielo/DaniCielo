@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola, mi nombre es Daniel Cielo 👋
+
+### Formado en programación con **Python**
+### Cursos en Bases de Datos y lenguajes estructurados **COBOL**
+### Autodidacta con experiencia **VBA para aplicaciones** (Excel)
 
 <!--
 **DaniCielo/DaniCielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
