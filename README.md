@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Daniel Cielo 👋
 
-### Formado en programación con **PYTHON**
+### Formado en programación con **PYTHON** en TOKIO SCHOOL
 ### Cursos en Bases de Datos y lenguajes estructurados **COBOL**
 ### Autodidacta con experiencia **VBA para aplicaciones** (Excel)
 
